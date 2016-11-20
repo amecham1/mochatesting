@@ -1,0 +1,25 @@
+{
+  "name": "mochatesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amecham1/mochatesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amecham1/mochatesting/issues"
+  },
+  "homepage": "https://github.com/amecham1/mochatesting#readme"
+}
